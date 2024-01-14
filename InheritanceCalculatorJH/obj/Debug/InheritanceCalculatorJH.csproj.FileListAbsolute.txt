@@ -1,0 +1,9 @@
+C:\Users\mmmdr\source\repos\InheritanceCalculatorJH\InheritanceCalculatorJH\bin\Debug\InheritanceCalculatorJH.exe.config
+C:\Users\mmmdr\source\repos\InheritanceCalculatorJH\InheritanceCalculatorJH\bin\Debug\InheritanceCalculatorJH.exe
+C:\Users\mmmdr\source\repos\InheritanceCalculatorJH\InheritanceCalculatorJH\bin\Debug\InheritanceCalculatorJH.pdb
+C:\Users\mmmdr\source\repos\InheritanceCalculatorJH\InheritanceCalculatorJH\obj\Debug\InheritanceCalculatorJH.csprojAssemblyReference.cache
+C:\Users\mmmdr\source\repos\InheritanceCalculatorJH\InheritanceCalculatorJH\obj\Debug\InheritanceCalculatorJH.Form1.resources
+C:\Users\mmmdr\source\repos\InheritanceCalculatorJH\InheritanceCalculatorJH\obj\Debug\InheritanceCalculatorJH.Properties.Resources.resources
+C:\Users\mmmdr\source\repos\InheritanceCalculatorJH\InheritanceCalculatorJH\obj\Debug\InheritanceCalculatorJH.csproj.GenerateResource.cache
+C:\Users\mmmdr\source\repos\InheritanceCalculatorJH\InheritanceCalculatorJH\obj\Debug\InheritanceCalculatorJH.exe
+C:\Users\mmmdr\source\repos\InheritanceCalculatorJH\InheritanceCalculatorJH\obj\Debug\InheritanceCalculatorJH.pdb
